@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Divyam Kumar Pandey and I'm a Software Developer from India.</h2>
+<h2 align="left">Hi 👋! My name is Divyam Kumar Pandey and I'm a Software Developer from India. </h2>
 
 ###
 
